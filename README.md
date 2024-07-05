@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZedolsPython
+- 👋 Hi, I’m Rastislav
 - 👀 I’m interested in Python, Data Analyst
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
